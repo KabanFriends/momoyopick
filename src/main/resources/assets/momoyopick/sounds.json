@@ -1,0 +1,10 @@
+{
+  "momoyo": {
+    "sounds": [
+      {
+        "name": "momoyopick:momoyo",
+        "stream": true
+      }
+    ]
+  }
+}
